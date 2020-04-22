@@ -11,3 +11,11 @@
 .btn-div {
 	text-align: center;
 }
+
+#display-country {
+	font-size: 25px;
+}
+
+#sub-group {
+	display: none;
+}
