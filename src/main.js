@@ -49,7 +49,10 @@ $(document).ready(function() {
 				// );
 			});
 			$('#search-thing').append('</select>');
-			$('country);
+			$('#country-button').click(function() {
+				let userVal = $('#country').val();
+				console.log(userVal);
+			});
 		};
 	});
 });
