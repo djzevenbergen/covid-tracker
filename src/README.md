@@ -1,11 +1,11 @@
-# Triangle
+# Animal Finder   
 
-#### Triangle testing.
-#### By Brevin Cronk, Jason Macie, Stevenly
+#### Find available pets to adopt based on your locations and type of animal using the PetFinder API.
+#### By Brevin Cronk, DJ Zevenbergen
 
 ## Description
 
-This application runs tests on the terminal using Jest. 
+This application uses Javascript, Asynchronous methods, webpack, and testing to create a webpage with which users can find the perfect pet for them. 
 ## Setup/Installation Requirements
 
 * Clone the Git repo.
@@ -15,19 +15,20 @@ This application runs tests on the terminal using Jest.
 * "npm test" in the console
 
 ## Known Bugs
-No know bugs yest
+No know bugs
 
 ## Support and contact details
 
-If you run into any problems, feel free to contact us at Brevincronk98/macj314/stevenly369 on github.
+If you run into any problems, feel free to contact us at Brevincronk98/djzevenbergen on github.
 
 ## Technologies Used
 
 Jest
 Javascript
+Petfinder API
 
 
 ### License
 
 
-Copyright (c) 2020 **Brevin Cronk** **Jason Macie** **Steven Ly**
+Copyright (c) 2020 **Brevin Cronk** **DJ Zevenbergen**

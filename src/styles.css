@@ -1,0 +1,13 @@
+.jumbotron {
+	margin-top: 15px;
+	border-radius: 20px;
+}
+
+.big-button {
+	height: 200px;
+	width: 400px;
+}
+
+.btn-div {
+	text-align: center;
+}
